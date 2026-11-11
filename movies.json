@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Interstellar",
+        "release_year": 2014,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "imdb_url": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "title": "Inception",
+        "release_year": 2010,
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "imdb_url": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "title": "   The Godfather",
+        "release_year": 1972,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdb_url": "https://www.imdb.com/title/tt0068646/"
+    },
+    {
+        "title": "",
+        "release_year": 1990,
+        "genre": [
+            "film"
+        ],
+        "imdb_url": "imdb.com"
+    },
+    {
+        "title": "",
+        "release_year": 1991,
+        "genre": [
+            "Drama"
+        ],
+        "imdb_url": "imdb"
+    },
+    {
+        "title": "",
+        "release_year": 2111,
+        "genre": [
+            "ceva"
+        ],
+        "imdb_url": "imdb"
+    },
+    {
+        "title": "ceva",
+        "release_year": 2026,
+        "genre": [
+            "film"
+        ],
+        "imdb_url": "imdb"
+    },
+    {
+        "title": "film",
+        "release_year": 2026,
+        "genre": [
+            "frumos"
+        ],
+        "imdb_url": "https://www.imdb.com/title/tt00000000"
+    }
+]
